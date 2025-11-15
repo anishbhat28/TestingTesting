@@ -1,0 +1,46 @@
+[
+  {
+    "name": "Neil Good Day Center",
+    "type": "shelter",
+    "lat": 32.7178,
+    "lng": -117.1570,
+    "pets": false,
+    "storage": true,
+    "dignity_score": 4.2
+  },
+  {
+    "name": "Father Joe's Village Clinic",
+    "type": "clinic",
+    "lat": 32.7085,
+    "lng": -117.1547,
+    "dignity_score": 3.8
+  },
+  {
+    "name": "First Church San Diego",
+    "type": "safe",
+    "lat": 32.7171,
+    "lng": -117.1647,
+    "pets": true,
+    "storage": false,
+    "dignity_score": 4.7
+  },
+  {
+    "name": "Downtown Winter Shelter (Demo)",
+    "type": "shelter",
+    "lat": 32.7135,
+    "lng": -117.1608,
+    "pets": true,
+    "storage": false,
+    "dignity_score": 3.2
+  },
+  {
+    "name": "Women-Only Shelter (Demo)",
+    "type": "shelter",
+    "lat": 32.7148,
+    "lng": -117.1589,
+    "pets": false,
+    "storage": true,
+    "dignity_score": 4.6
+  }
+]
+
